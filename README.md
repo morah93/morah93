@@ -8,8 +8,6 @@ Hi, Welcome to my Github. My name is Mohammed Rahman.
 
 I'm a software engineer with experience in JavaScript, Python, React, Flask and other libraries. My main project right now is a dream come true for a photography enthusiast like myself. I have created a website where a user can post their images and share their creativity and passion with others like them. On the side, I'm working on a group project with other like minded engineers, pair programming on a music hosting website that uses AWS to host the music.
 
-On a more personal note, I'm addicted to gaming and sports. My favorite game currently is Rocket league. It pushes me to give it my all and not give up when I'm repeatedly beaten. Qualities I find quite applicable while coding.
-
 
 TOOLS
 
