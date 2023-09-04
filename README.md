@@ -27,7 +27,10 @@ TOOLS
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/97058803/217726205-ca2d10b3-86cf-411b-9271-ba4b6eb8a09a.svg)
 
 
-Please checkout my projects:
+Please check out my projects:
+
+WhereBnb
+https://wherebnb-yy6l.onrender.com
 
 Spoti8
 https://spoti8-4xlj.onrender.com/
