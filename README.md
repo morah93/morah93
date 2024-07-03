@@ -29,8 +29,8 @@ TOOLS
 Please check out my projects:
 
 WhereBnb
-](https://github.com/morah93/Wherebnb)
+[https://github.com/morah93/Wherebnb]
 
 Snapshot
-[https://snapshot-rqqd.onrender.com](https://github.com/morah93/Snapshot-Project)
+[https://github.com/morah93/Snapshot-Project]
 
