@@ -4,10 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
 <p>
 
-Hi, Welcome to my Github. My name is Mohammed Rahman.
+Hi, Welcome to my GitHub. My name is Mohammed Rahman.
 
-I'm a software engineer with experience in JavaScript, Python, React, Flask and other libraries. My main project right now is a dream come true for a photography enthusiast like myself. I have created a website where a user can post their images and share their creativity and passion with others like them. On the side, I'm working on a group project with other like minded engineers, pair programming on a music hosting website that uses AWS to host the music.
-
+I'm a detail-oriented Software Engineer with a background in computer software and media applications. I bring strong problem-solving skills and a passion for coding, and I am eager to contribute to innovative projects.
 
 TOOLS
 
