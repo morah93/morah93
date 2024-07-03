@@ -29,11 +29,8 @@ TOOLS
 Please check out my projects:
 
 WhereBnb
-https://wherebnb-yy6l.onrender.com
-
-Spoti8
-https://spoti8-4xlj.onrender.com/
+](https://github.com/morah93/Wherebnb)
 
 Snapshot
-https://snapshot-rqqd.onrender.com
+[https://snapshot-rqqd.onrender.com](https://github.com/morah93/Snapshot-Project)
 
